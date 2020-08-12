@@ -1,0 +1,36 @@
+CHAULAFAN,Chaulafan especial,6.30,chaulafanespecial.jpg
+CHAULAFAN,Chaulafan de mariscos,4.30,chaulafanmariscos.jpg
+CHAULAFAN,Chaulafan de carne,4.30,chaulafancarne.jpg
+CHAULAFAN,Chaulafan de pollo,4.30,chaulafanpollo.jpg
+CHAULAFAN,Arroz frito con jamon,3.50,arrozfritojamon.jpg
+TALLARIN,Tallarin de camaron,5.50,tallarinCamaron.jpg
+TALLARIN,Tallarin de pollo,5.50,tallarinPollo.jpg
+TALLARIN,Tallarin de camarón,5.50,tallarinCamaron.jpg
+TALLARIN,Tallarin de lomo,5.50,tallarinLomo.jpg
+ENTRADA,Bollo chino x3,3.50,bolloschinos.jpg
+ENTRADA,Domplines x3,3.50,domplines.jpg
+ENTRADA,Patacones con queso x5,2.50,pataconesconqueso.jpg
+ENTRADA,Wantan x5,3.50,sopawantan.jpg
+ENTRADA,Palitos de pollo apanados x5,2.50,palitospolloapanado.jpg
+ENTRADA,Papas fritas,2.00,papasfritas.jpg
+BEBIDA,Té helado,2.00,tehelado.jpg
+BEBIDA,Té caliente,1.50,tecaliente.jpg
+BEBIDA,Café,2.50,cafe.jpg
+BEBIDA,Agua,0.75,aguadasani.jpg
+BEBIDA,Coca cola,1.50,cocacola.jpg
+BEBIDA,Inca cola,1.00,incacola.jpg
+BEBIDA,Fiora fresa,1.00,fioravanti.jpg
+BEBIDA,Cerveza club verde,2.00,clubverde.jpg
+SOPA,Consomé de pollo,5.70,consomedepollo.jpg
+SOPA,Sopa wantan,6.38,sopawantan.jpg
+SOPA,Sopa de aleta de tiburon,10.50,sopaaletadetiburon.jpg
+SOPA,Sopa de cangrejo,5.50,sopacangrejo.jpg
+SOPA,Sopa buche de pescado,8.50,sopabuchepescado.jpg
+SOPA,Sopa de menudencia,4.90,sopamenudencias.jpg
+SOPA,Sopa Pa Pon 5 sabores,5.90,sopapapon5.jpg
+SOPA,Sopa choclo,5.90,sopachoclo.jpg
+PLATOSCARTA,Caldo de tallarin con chop suey,5.00,caldochop.jpg
+PLATOSCARTA,Pollo al tamarindo,4.00,polloaltamarindo.jpg
+PLATOSCARTA,Chop Suey con tallarin,6.00,chopsueycontallarin.jpg
+PLATOSCARTA,Churrasco,4.30,churrasco.jpg
+PLATOSCARTA,Pollo apanado,4.00,polloapanado.jpg

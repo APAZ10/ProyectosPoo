@@ -1,0 +1,13 @@
+#topOpciones{
+    -fx-background-color: linen;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+}
+
+#seccionPlatos{
+    -fx-background-color: bisque;
+}
+
+#seccionPedido{
+    -fx-background-color: grey;
+}

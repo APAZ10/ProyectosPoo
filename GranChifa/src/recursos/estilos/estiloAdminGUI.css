@@ -1,0 +1,13 @@
+#root{
+    
+}
+
+#seccionBotones{
+    -fx-background-color: linen;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+}
+
+#panelMesas{
+    -fx-background-color: dimgray;
+}

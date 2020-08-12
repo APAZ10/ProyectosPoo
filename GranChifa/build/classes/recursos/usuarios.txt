@@ -1,0 +1,5 @@
+Administrador,admin1@hotmail.com,admin1
+Mesero,mesero1@hotmail.com,mesero1,Luis Urdiales
+Mesero,mesero2@hotmail.com,mesero2,Domenica Velasco
+Administrador,admin2@hotmail.com,admin2
+Administrador,prueba1,prueba1,admin3
